@@ -1,1 +1,1 @@
-# Purvis_Liza_ART2210_Self-Portrait_Fall2019
+The following is my course work, which includes projects and homework for my Creative Coding class
